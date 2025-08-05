@@ -1,6 +1,6 @@
 ![I am Akila](https://github.com/akila_swapnil_oyshi/akila_swapnil_oyshi/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Akila Swapnil (Oyshi)</h1>
+<h1 align="center">Hi 👋, I'm Akila Swapnil Oyshi</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 
 <div align="center">
@@ -52,11 +52,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=akilaswapnil&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akilaswapnil/Java-Project)
-[![ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=akilaswapnilrepo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akilaswapnil100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=akilaswapnil&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akilaswapnil/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=akilaswapnil&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akilaswapnil/weblitical)
-
+[![Akila_Swapnil_Oyshi](https://github-readme-stats.vercel.app/api/pin/?username=akilaswapnil&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https](https://github.com/akilaswapnil/akila_swapnil_oyshi/blob/main/code.png)://github.com/akilaswapnil/Java-Project)
 <p align="left">
   <a href="https://github.com/akilaswapnil?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -68,7 +64,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/akilaswapnil">
+  <a href="https://(https://github.com/akilaswapnil)">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilaswapnil&theme=radical" alt="Akila_Swapnil_Oyshi GitHub Contribution"/>
   </a>
 </p>
@@ -89,7 +85,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/AkilaSwapnilO" target="_blank">
+<a href="https://twitter.com/AkilaSwapnilOyshi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/Akila(Oyshi)Swapnil/" target="_blank">
