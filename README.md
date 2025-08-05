@@ -1,10 +1,8 @@
-![I am Akila](https://github.com/akila_swapnil_oyshi/akila_swapnil_oyshi/blob/main/code.png)
-
+![I am Akila](https://github.com/akilaswapnil/akila_swapnil_oyshi/blob/main/code.png)
 <h1 align="center">Hi 👋, I'm Akila Swapnil Oyshi</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-
+<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3
 <div align="center">
-
+  
 ![Profile views](https://komarev.com/ghpvc/?username=akila_swapnil_oyshicolor=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
