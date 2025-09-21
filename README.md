@@ -1,4 +1,4 @@
-![cover](githubbanner.png)
+
 
 ![I am Akila](https://github.com/akilaswapnil/akila_swapnil_oyshi/blob/main/code.png)
 <h1 align="center">Hi 👋, I'm Akila Swapnil Oyshi</h1>
