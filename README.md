@@ -47,17 +47,6 @@ Skills: JavaScript / HTML / CSS /TAILWIND
 
 <br/>
 
-## Best Repo -
-
-[![cde-by-akila](https://github-readme-stats.vercel.app/api/pin/?username=code-by-akila&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)][https](https://github.com/code-by-akila/akila_swapnil_oyshi/blob/main/githubbannerF.png)://github.com/code-by-akila/Java-Project)
-<p align="left">
-  <a href="https://github.com/code-by-akila?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 ## Github Stats -
 
 <p align="center">
