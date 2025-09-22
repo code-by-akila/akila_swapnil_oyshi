@@ -3,7 +3,7 @@
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3
 <div align="center">
   
-![Profile views](https://komarev.com/ghpvc/?username=code-by-akilacolor=red)
+![Profile views](https://komarev.com/ghpvc/?username=code-by-akila&color=red)
 
 Skills: JavaScript / HTML / CSS /TAILWIND
 
