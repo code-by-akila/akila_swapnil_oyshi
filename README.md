@@ -1,37 +1,37 @@
-![GitHub Banner](https://github.com/akila_swapnil_oyshi/akila_swapnil_oyshi/blob/main/githubbannerF.png)
+![GitHub Banner](https://github.com/code-by-akila/akila_swapnil_oyshi/blob/main/githubbannerF.png)
 
-![I am Akila](https://github.com/akila_swapnil_oyshi/akila_swapnil_oyshi/blob/main/githubbannerF.png)
+![I am Akila](https://github.com/code-by-akila/akila_swapnil_oyshi/blob/main/githubbannerF.png)
 <h1 align="center">Hi 👋, I'm Akila Swapnil Oyshi</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3
 <div align="center">
   
-![Profile views](https://komarev.com/ghpvc/?username=akila_swapnil_oyshicolor=red)
+![Profile views](https://komarev.com/ghpvc/?username=code-by-akilacolor=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: JavaScript / HTML / CSS /TAILWIND
 
 </div>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning FullStack Web Development
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning javaScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/akila_swapnil_oyshi](https://github.com/akila_swapnil_oyshi
+- 👨‍💻 All of my projects are available at [https://github.com/code-by-akila](https://github.com/akila_swapnil_oyshi
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **akilaswapnil1122@gmail.com**
+- 📫 How to reach me **akilaswapnil.dev@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/Swapnil_Oyshi]
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/Swapnil Oyshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Swwapnil Oyshi" height="30" width="40" /></a>
+<a href="https://fb.com/Swapnil Oyshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Swapnil Oyshi" height="30" width="40" /></a>
 <a href="https://twitter.com/AkilaSwapnilO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AkilaSwapnilO" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/[  ](https://www.linkedin.com/in/akila-swapnil-81916935a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1B5oFf4nQ56Z%2B%2BFSWJeGKA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akila(Oyshi)Swapnil" height="30" width="40" /></a>
 </p>
 
-## Use To Code
+## Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -85,7 +85,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/AkilaSwapnilOyshi" target="_blank">
+<a href="https://twitter.com/AkilaSwapnilO" target="_blank"
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/Akila(Oyshi)Swapnil/" target="_blank">
